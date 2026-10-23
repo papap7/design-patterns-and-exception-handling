@@ -1,0 +1,14 @@
+# Compiled binaries and build output
+*.exe
+*.o
+*.obj
+*.out
+*.a
+
+# Editor / IDE files
+.vscode/
+tempCodeRunnerFile.*
+
+# OS files
+.DS_Store
+Thumbs.db
